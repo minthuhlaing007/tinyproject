@@ -1,3 +1,8 @@
+h1{
+  color: #f7bf75;
+  font-family: monospace;
+}
+
 .bar {
   display: flex;
   padding: 10px 10px 0 10px;
