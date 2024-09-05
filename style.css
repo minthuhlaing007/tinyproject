@@ -1,0 +1,27 @@
+.bar {
+  display: flex;
+  padding: 10px 10px 0 10px;
+  background: #f7bf75;
+  list-style: none;
+}
+.tab {
+  padding: 8px 40px;
+  background: white;
+  margin-right: 5px;
+  cursor: pointer;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  border-radius: 10px;
+  font-weight: bolder;
+}
+#tab2 {
+  opacity: 0.5;
+}
+.content {
+  padding: 20px;
+  border: 1px solid #f7bf75;
+  border-top: 0 none;
+}
+#content2 {
+  display: none;
+}
