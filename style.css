@@ -1,4 +1,4 @@
-h1{
+h1 {
   color: #f7bf75;
   font-family: monospace;
 }
@@ -18,6 +18,11 @@ h1{
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   border-radius: 10px;
   font-weight: bolder;
+  transition: background-color 2s, white 0.5s;
+}
+.tab:hover {
+  background-color: #dd8b1f;
+  color: white;
 }
 #tab2 {
   opacity: 0.5;
